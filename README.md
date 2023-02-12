@@ -9,7 +9,7 @@ This is a real site example to create custom **my orders** page. Using custom el
 
 ### Photo From Real Example
 
-<img src="https://prnt.sc/_EalUcEXPDn6">
+<img src="https://img001.prntscr.com/file/img001/ht5XXh7uSNSwvT1YYEPMLA.png">
 
 ---
 
